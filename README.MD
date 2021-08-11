@@ -1,32 +1,32 @@
 Readme caso 3.
 
-Los archivos del proceso realizado los podrá encontrar en el link 
+Los archivos del proceso realizado los podrï¿½ encontrar en el link 
 
-del GitHub (link), donde encontrara la carpeta con los archivos 
+del GitHub (https://github.com/MeliPerezo/CasoPractico3AdmiDatos), donde encontrarÃ¡ la carpeta con los archivos 
 
-procesados y sin procesar en las carpetas (carpetas).
+procesados y sin procesar en las carpetas (carpetas) y el desarrollo del caso en python.
 
-Los pasos que se realizaron durante la ejecución del código y 
+Los pasos que se realizaron durante la ejecuciï¿½n del cï¿½digo y 
 
-creación del caso son los siguientes:
+creaciï¿½n del caso son los siguientes:
 
-Se carga el archivo donde se tiene la información (data.csv) por 
+Se carga el archivo donde se tiene la informaciï¿½n (data.csv) por 
 
-medio de código, y delimitando por ";".
+medio de cï¿½digo, y delimitando por ";".
 
-Se indican cuales son los 5 valores iniciales que venían en el 
+Se indican cuales son los 5 valores iniciales que venï¿½an en el 
 
 dataframe, al igual que los 5 valores finales.
 
-Luego se clasifican los valores según el tipo al que pertenezcan 
+Luego se clasifican los valores segï¿½n el tipo al que pertenezcan 
 
 cada uno de ellos.
 
-Entre la columnas del dataframe se validan cuáles son los valores 
+Entre la columnas del dataframe se validan cuï¿½les son los valores 
 
 NULOS que contiene las columnas, los datos que contengan los 
 
-símbolos "--" fueron reemplazados por NULOS, para luego hacer un 
+sï¿½mbolos "--" fueron reemplazados por NULOS, para luego hacer un 
 
 filtro de las columnas con un porcentaje mayor del 70% de los 
 
@@ -40,11 +40,12 @@ se muestras, al igual que los valores perdidos por columnas.
 
 En la columna "Gender" se reemplazan todos los valores NULOS por 
 
-Unknow. Igualmente los valores NULOS de la columna “Departamento” 
+Unknow. Igualmente los valores NULOS de la columna ï¿½Departamentoï¿½ 
 
-fueron reemplazados por “Bench”.
+fueron reemplazados por ï¿½Benchï¿½.
 
-Todos los valores perdidos de la columna “Overtime” fueron 
+Todos los valores perdidos de la columna ï¿½Overtimeï¿½ fueron 
 
-reemplazados por "No"
+reemplazados por "No". 
+AdemÃ¡s la nomenclatura utilizada fue la CammelCase y todos los archicos fueron separados en carpetas, para asÃ­ lograr un estructura mÃ¡s ordenada. 
 
