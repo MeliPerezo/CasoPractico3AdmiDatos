@@ -15,9 +15,7 @@ Los pasos que se realizaron durante la ejecución del código y creación del ca
 
 5. Los datos que contengan los  "--" fueron reemplazados por NULOS, para luego hacer un filtro. 
 
-6. Las columnas con un porcentaje mayor del 70% de los valores en NULOS y eliminarla, igualmente las filas que tengan 
-
-menos de dos elementos son eliminados. 
+6. Las columnas con un porcentaje mayor del 70% de los valores en NULOS y eliminarla, igualmente las filas que tengan menos de dos elementos son eliminados. 
 
 7. Los totales de los valores perdidos en el dataframe se agrupan y se muestras, al igual que los valores perdidos por columnas.
 
